@@ -39,6 +39,11 @@ const navItems = [
     name: "Notifications",
     path: "/dashboard1/notifications",
   },
+  {
+    icon:  <UserCircleIcon />,
+    name: "Manage Subscriptions",
+    path: "/dashboard1/manageSubscriptions"
+  }
   // {
   //   icon: <UserCircleIcon />,
   //   name: "Reserve a Private Desk",
